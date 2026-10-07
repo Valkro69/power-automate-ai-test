@@ -1,0 +1,3 @@
+Pressure: 10 bar
+Temperature: 120 C
+Material: Carbon Steel
